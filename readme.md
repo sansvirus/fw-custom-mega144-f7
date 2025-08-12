@@ -1,1 +1,1 @@
-See https://github.com/rusefi/rusefi/wiki/Custom-Firmware
+[Documentation](https://github.com/rusefi/rusefi/wiki/mega144)
