@@ -8,6 +8,3 @@ include $(BOARD_DIR)/meta-info.env
 
 # this would save some flash while being unable to update WBO controller firmware
 DDEFS += -DEFI_WIDEBAND_FIRMWARE_UPDATE=FALSE
-
-# assign critical LED to a non-existent pin
-DDEFS += -DLED_CRITICAL_ERROR_BRAIN_PIN=Gpio::I15
