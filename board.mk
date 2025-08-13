@@ -1,5 +1,5 @@
 include $(BOARD_DIR)/firmware/firmware.mk
-
+include $(BOARDS_DIR)/hellen/hellen-common-mega144.mk
 
 BOARDINC += $(BOARD_DIR)/generated/controllers/generated
 
